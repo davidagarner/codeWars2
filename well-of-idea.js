@@ -7,7 +7,8 @@ function well(test){
     }else if(num > 2){
       return 'I smell a series!'
     }else{
-      return 'Fail!'
+      return 'Fail!' 
+      
     }
       
     }
