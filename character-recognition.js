@@ -9,4 +9,5 @@ function correct(string){
       ? 'S': (a === '0')
       ? 'O': (a === '1')
       ? 'I': a).join('')
+      
      }
